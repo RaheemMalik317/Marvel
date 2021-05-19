@@ -43,41 +43,30 @@ a:visited {
 a:hover,
 a:active {
     color: white;
-    background-color: #ED462F;
+    background-color: #3c2fed;
     box-shadow: 0 1rem 2rem rgba(black, .4);
     transform: rotate(5deg) scale(1.2);
     padding: 2px;
-    /* -webkit-transform: rotate(5deg) scale(1.3); */
+    
 }
 
-/* Character Search Page */
-/* Character Search Page */
-/* Character Search Page */
+
 .jumbotron {
-    background-color: #080808;
-}
-.header-main-title {
-    color: blue;
-}
-.character-search-box {
-    border-radius: 10px;
-}
-.submit {
-    background-color: #ED462F;
-}
-#characterMainTitle, #comicMainTitle {
-    color: #FFFFFF;
-}
-.card {
-    border:none;
-    border-radius: 2px;
+    background-color: #1cadd1;
 }
 
+.apiOne {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-right: 2px;
+    width: 5px;
+    height: 5px;
+}
 
-/* Single Comic Page */
-/* Single Comic Page */
-/* Single Comic Page */
-/* Single Comic Page */
-/* .single-comice__container {
-    background-color: #22262A;
-} */
+.apiTwo {
+    margin-top: 10px;
+}
+
+.testing{
+    width: 15px;
+}
